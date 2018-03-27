@@ -8,4 +8,4 @@ end
 
 def first_element(array)
 array[1]
-end 
+end
